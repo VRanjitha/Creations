@@ -20,10 +20,10 @@ I'm much interested in making PREDICTIONS. This interest got me here..
     >sklearn.model_selection: train_test_split module to split the dataset into training and testing data.
 
 # MACHINE LEARNING ALGORTTHMS
-   # LINEAR REGRESSION : PREDICTIONS ARE CONTINUOUS VALUES
+   # LINEAR REGRESSION : Predictions are continuous values
        -In ML, we have a set of input variables (x) that are used to determine the output variable (y). A relationship exists between the input variables and the output variable. 
        -The goal of ML is to quantify this relationship.
-   # LOGISTIC REGRESSION : PREDICTIONS ARE DECRETE VALUES
+   # LOGISTIC REGRESSION : Predictions are descrete values
        - best suited for binary classification (datasets where y = 0 or 1, where 1 denotes the default class.
        -the output is in the form of probabilities of the default class.
    # NAVIE BAYES
