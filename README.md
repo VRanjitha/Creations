@@ -5,7 +5,7 @@ I'm much interested in making PREDICTIONS. This interest got me here..
 
 # PURPOSE
 >The main aim is to allow the computers learn automatically without human intervention and adjust actions accordingly.
->machine learning tedchnology is applied in various sectors like:
+>machine learning technology is applied in various sectors like:
  -HEALTH CARE
  -FINANCIAL
  -BANKING
