@@ -1,7 +1,7 @@
 # whizzKid
 
 
-Much interested towards making PREDICTIONS. This interest got me here..
+I'm much interested in making PREDICTIONS. This interest got me here..
 
 # PURPOSE
 >The main aim is to allow the computers learn automatically without human intervention and adjust actions accordingly.
@@ -44,7 +44,8 @@ Much interested towards making PREDICTIONS. This interest got me here..
   # 1. Import libraries
     -to import all the required libraries to proceed with the project
   # 2. Import dataset
-    -to import the dataset (datasets can be downloaded from kaggle) read_csv() is used to read dataset and store it in a variable say        data.
+    -to import the required dataset to proceed with the project(datasets can be downloaded from kaggle)
+    -read_csv() is used to read dataset.
   # 3.Observe and understand the data
     -this step includes describe(),info(),construction of correlation matirx,histograms,bar plot, etc.
   # 4.Data processig
