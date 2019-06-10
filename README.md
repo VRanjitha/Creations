@@ -1,7 +1,8 @@
 # whizzKid
 
+hey friends!
+I'm ranjitha and i am very much interested in making PREDICTIONS. This interest got me here..
 
-I'm much interested in making PREDICTIONS. This interest got me here..
 
 # PURPOSE
     >The main aim is to allow the computers learn automatically without human intervention and adjust actions accordingly.
