@@ -4,7 +4,7 @@ hey friends!
 I'm ranjitha and i am very much interested in making PREDICTIONS. This interest got me here..
 
 
-# PURPOSE
+# Purpose
     >The main aim is to allow the computers learn automatically without human intervention and adjust actions accordingly.
     >machine learning technology is applied in various sectors like:
     -HEALTH CARE
@@ -13,32 +13,32 @@ I'm ranjitha and i am very much interested in making PREDICTIONS. This interest 
     -AGRICULTURAL SECTORS.etc
     >The above given codes are some of the machine learning projects for BEGINNERS.
 
-# IMPORTANT LIBRARIES
+# Important Libraries
     > os: To interact with operating system
     >numpy : To work with arrays and matrix processing
     >pandas :To work with csv files and specifically developed for data extraction and preparation
     >matplotlib: To visualize data and To create charts using pyplot module
     >sklearn.model_selection: train_test_split module to split the dataset into training and testing data.
 
-# MACHINE LEARNING ALGORTTHMS
-   # LINEAR REGRESSION : Predictions are continuous values
+# Machine Learning Algorithms
+   # Linear Regression : Predictions are continuous values
        -In ML, we have a set of input variables (x) that are used to determine the output variable (y). A relationship exists between the input variables and the output variable. 
        -The goal of ML is to quantify this relationship.
-   # LOGISTIC REGRESSION : Predictions are descrete values
+   # Logistic Regression : Predictions are descrete values
        - best suited for binary classification (datasets where y = 0 or 1, where 1 denotes the default class.
        -the output is in the form of probabilities of the default class.
-   # NAVIE BAYES
+   # Navie Bayes :
       -To calculate the probability that an event will occur, given that another event has already occurred, we use Bayes’ Theorem.
-   # K NEARST NEIGHBORS(KNN)    :
+   # K Nearest Neighbors(KNN)    :
       - uses the entire dataset as the training set, rather than splitting the dataset into a trainingset and testset.
       -the algorithm goes through the entire dataset to find the k-nearest instances to the new instance, or the k number of instances          most similar to the new record and outputs the means.
-   # SUPPORT VECTOR MACHINE (SVM) : 
+   # Support Vector Machine (SVM) : 
       - classification to plot raw data as points in an n-dimensional space.
-   # DECISION TREE CLASSIFIER:
+   # Decision Tree Classifier:
       -This uses the tree representation to solve the problem in which each leaf node corresponds to a class label and attributes are          represented on the internal node of the tree.
-   # RANDOM FOREST:
+   # Random Forest:
       -Random Forest i.e. multiple learners is an improvement over bagged decision trees i.e. a single learner.
-   # ADABOOST CLASSIFIER:
+   # Adaboost Classifier:
       -Ada-boost classifier combines weak classifier algorithm to form strong classifier.
      - we combine multiple classifiers with selection of training set at every iteration and assigning right amount of weight in final.
 # STEPS:
